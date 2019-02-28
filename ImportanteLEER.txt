@@ -1,0 +1,2 @@
+players:
+Crasy,Normy usan la libreria tools
